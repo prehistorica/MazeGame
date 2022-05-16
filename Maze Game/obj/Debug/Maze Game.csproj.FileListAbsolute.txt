@@ -1,0 +1,46 @@
+C:\Users\Professor\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+C:\Users\Professor\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+C:\Users\Professor\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.Form1.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.frmMenu.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.frmEscolha.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelMedio.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelDificil.resources
+C:\Users\Professor\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivedificil2.resources
+D:\Visual Studio\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+D:\Visual Studio\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+D:\Visual Studio\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze Game.csprojAssemblyReference.cache
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.Form1.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.frmEscolha.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.frmMenu.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivedificil2.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelDificil.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelMedio.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.cache
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+D:\Visual Studio\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.AssemblyReference.cache
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.Form1.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.frmEscolha.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.frmMenu.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivedificil2.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelDificil.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.frmNivelMedio.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.cache
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+D:\Visual Studio\JOGOS\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
